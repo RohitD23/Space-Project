@@ -1,0 +1,7 @@
+*/node-modules
+
+server/public
+
+.gitignore
+
+.git
